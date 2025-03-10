@@ -9,8 +9,8 @@
 - [ ] Make graphs to get a hang of it
     - [x] Sales per year/quater
     - [x] Sales by country
-    - [ ] Returns
-    - [ ] Revenue by category
+    - [x] Returns
+    - [x] Revenue by category
 - [ ] Deeper analysis
     - [ ] Largest factors of loss
     - [ ] Largest factors of income
