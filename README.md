@@ -16,4 +16,8 @@
     - [ ] Largest factors of income
     - [ ] Safest investments
     - [ ] Impact of discounts on profit
-    - [ ] Impact of discounts on returns
+    - [x] Impact of discounts on returns
+
+
+
+Hvor mange vi har solgt - ordrer med dem i eller total?
